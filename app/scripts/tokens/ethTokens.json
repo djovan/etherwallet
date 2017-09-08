@@ -180,12 +180,6 @@
     "type":"default"
   },
   {
-    "address":"0xdab0C31BF34C897Fb0Fe90D12EC9401caf5c36Ec",
-    "symbol":"DAB",
-    "decimal":0,
-    "type":"default"
-  },
-  {
     "address":"0x07d9e49ea402194bf48a8276dafb16e4ed633317",
     "symbol":"DALC",
     "decimal":8,
@@ -360,6 +354,12 @@
     "type":"default"
   },
   {
+   "address":"0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+   "symbol":"HVN",
+   "decimal":8,
+   "type":"default"
+  },
+  {
     "address":"0x5a84969bb663fb64F6d015DcF9F622Aedc796750",
     "symbol":"ICE",
     "decimal":18,
@@ -374,12 +374,6 @@
   {
     "address":"0x814cafd4782d2e728170fda68257983f03321c58",
     "symbol":"IDEA",
-    "decimal":0,
-    "type":"default"
-  },
-  {
-    "address":"0x88AE96845e157558ef59e9Ff90E766E22E480390",
-    "symbol":"IKB",
     "decimal":0,
     "type":"default"
   },
